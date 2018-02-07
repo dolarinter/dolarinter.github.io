@@ -8,7 +8,7 @@ var $iof = document.getElementById('iof');
 var $spread = document.getElementById('spread');
 
 var defaultIof = 6.38;
-var defaultSpread = 4.073; // [carece de fontes]
+var defaultSpread = 1; // [https://www.bancointer.com.br/conta-corrente/duvidas-frequentes.jsf]
 
 var jsonpCallback = 'onReceiveData';
 
